@@ -6,7 +6,8 @@ def deal_card
   Random.rand(1...11)
 end
 
-def display_card_total
+def display_card_total(card_total)
+  puts ""
   # code #display_card_total here
 end
 
